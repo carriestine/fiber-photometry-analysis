@@ -1,0 +1,11 @@
+﻿tankname,blockname,animal_ID,expname,date,timestamps,eventduration,sessionlength,delay1
+Carrie_BasicProtocol-200726-122940,pnVTAgcamp89386M1-210517-111534,89386M1,Looming1s,_May17,loomday2times.txt,1,10,0
+Carrie_BasicProtocol-200726-122940,pnVTAgcamp89386M3-210517-112830,89386M3,Looming1s,_May17,loomday2times.txt,1,10,0
+Carrie_BasicProtocol-200726-122940,pnVTAgcamp89386M4-210517-114255,89386M4,Looming1s,_May17,loomday2times.txt,1,10,0
+Carrie_BasicProtocol-200726-122940,pnVTAgcamp99838M5-210517-115603,99838M5,Looming1s,_May17,loomday2times.txt,1,10,0
+Carrie_BasicProtocol-200726-122940,pnVTAgcamp99838M6-210517-121009,99838M6,Looming1s,_May17,loomday2times.txt,1,10,0
+Carrie_BasicProtocol-200726-122940,pnVTAgcamp89386M1-210609-094636,89386M1,NeutralOdor,_Jun09,odortimes.txt,30,15,0
+Carrie_BasicProtocol-200726-122940,pnVTAgcamp89386M3-210609-100503,89386M3,NeutralOdor,_Jun09,odortimes.txt,30,15,0
+Carrie_BasicProtocol-200726-122940,pnVTAgcamp89386M4-210609-103913,89386M4,Aversive Odor,_Jun09,odortimes.txt,30,15,0
+Carrie_BasicProtocol-200726-122940,pnVTAgcamp99838M5-210609-105823,99838M5,Aversive Odor,_Jun09,odortimes.txt,30,15,0
+Carrie_BasicProtocol-200726-122940,pnVTAgcamp99838M6-210609-111937,99838M6,Aversive Odor,_Jun09,odortimes.txt,30,15,0
